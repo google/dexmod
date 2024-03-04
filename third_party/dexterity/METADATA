@@ -1,0 +1,15 @@
+name: "Dexterity"
+description:
+    "dexterity is a library for parsing Dalvik Executable (DEX) files."
+
+third_party {
+  identifier {
+    type: "Git"
+    value: "https://github.com/rchiossi/dexterity"
+    primary_source: true
+  }
+  version: "1"
+  last_upgrade_date { year: 2016 month: 3 day: 8 }
+  license_type: PERMISSIVE
+  local_modifications: "Changed the string adding functionality as it was not implemented correctly."
+}
