@@ -31,7 +31,7 @@ To use or expand this tool, it is best to first view a working example where dex
 
 ## Further Information
 
-We recommend reviewing the Mandiant [Delving into Dalvik: A Look into DEX Files](https://www.mandiant.com/resources/blog/dalvik-look-into-dex-files) blog for more detailed information about the DEX file format, method structure in bytecode, and usage of this tool.
+We recommend reviewing the Mandiant [Delving into Dalvik: A Look Into DEX Files](https://www.mandiant.com/resources/blog/dalvik-look-into-dex-files) blog for more detailed information about the DEX file format, method structure in bytecode, and usage of this tool.
 
 ## Disclaimer
 
